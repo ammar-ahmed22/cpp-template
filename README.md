@@ -8,7 +8,7 @@ Basic template for C++ projects. Implements CMake for compiling.
 ## How to use?
 Clone the repo:
 ```bash
-git clone URL
+git clone https://github.com/ammar-ahmed22/cpp-template.git
 ```
 
 Change directory
