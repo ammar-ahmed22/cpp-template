@@ -3,7 +3,7 @@ Basic template for C++ projects. Implements CMake for compiling.
 
 ## Requirements
 - Install CMake
->> use `brew install cmake`
+> use `brew install cmake`
 
 ## How to use?
 Clone the repo:
